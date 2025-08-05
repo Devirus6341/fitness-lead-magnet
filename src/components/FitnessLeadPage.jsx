@@ -30,7 +30,7 @@ export default function FitnessLeadPage() {
               <input type="hidden" name="_subject" value="New Lead from Fitness Landing Page!" />
             </div>
            <div>
-            <input type="hidden" name="_next" value="http://localhost:5173/thank-you" />
+            <input type="hidden" name="_next" value="https://fitness-guide101.netlify.app/thank-you" />
            </div>
             <button type="submit" className="btn btn-primary w-100">Get the Free Guide</button>
           </form>
